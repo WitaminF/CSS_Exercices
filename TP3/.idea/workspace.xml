@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42bff755-4d17-49d1-bda3-8715a93ec714" name="Changes" comment="Début tp3">
+    <list default="true" id="42bff755-4d17-49d1-bda3-8715a93ec714" name="Changes" comment="Fin TP3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
       <workItem from="1674131069899" duration="979000" />
       <workItem from="1674193169168" duration="3197000" />
       <workItem from="1674198275050" duration="227000" />
-      <workItem from="1674198578284" duration="1604000" />
+      <workItem from="1674198578284" duration="2685000" />
     </task>
     <task id="LOCAL-00001" summary="Premier commit TP2 Css">
       <created>1674131443714</created>
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674199623140</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fin TP3">
+      <created>1674200245968</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674200245968</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +133,7 @@
     <MESSAGE value="Premier commit TP2 Css" />
     <MESSAGE value="Fin TP2" />
     <MESSAGE value="Début tp3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Début tp3" />
+    <MESSAGE value="Fin TP3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fin TP3" />
   </component>
 </project>
