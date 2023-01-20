@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42bff755-4d17-49d1-bda3-8715a93ec714" name="Changes" comment="Début tp3">
+      <change afterPath="$PROJECT_DIR$/Ressources/Démarrage/helium-maquette-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ressources/Démarrage/helium-maquette-tablette.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ressources/Démarrage/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ressources/Correction/helium-maquette.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ressources/Correction/img/investlogo2blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ressources/Correction/img/investlogo3blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ressources/Correction/img/investlogo4blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ressources/Correction/img/main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ressources/Correction/img/marker1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ressources/Correction/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ressources/Correction/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ressources/Démarrage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ressources/Démarrage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KXq2Ri6EhHq6Nf87w3o1EMjs7e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TP2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TP2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42bff755-4d17-49d1-bda3-8715a93ec714" name="Changes" comment="" />
+      <created>1674131068583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674131068583</updated>
+      <workItem from="1674131069899" duration="979000" />
+      <workItem from="1674193169168" duration="3197000" />
+      <workItem from="1674198275050" duration="227000" />
+      <workItem from="1674198578284" duration="634000" />
+    </task>
+    <task id="LOCAL-00001" summary="Premier commit TP2 Css">
+      <created>1674131443714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674131443714</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fin TP2">
+      <created>1674194978363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674194978363</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Début tp3">
+      <created>1674195364425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674195364425</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Premier commit TP2 Css" />
+    <MESSAGE value="Fin TP2" />
+    <MESSAGE value="Début tp3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Début tp3" />
+  </component>
+</project>
