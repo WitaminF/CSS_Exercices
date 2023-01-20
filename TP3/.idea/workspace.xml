@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bff755-4d17-49d1-bda3-8715a93ec714" name="Changes" comment="Début tp3">
-      <change afterPath="$PROJECT_DIR$/Ressources/Démarrage/helium-maquette-mobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ressources/Démarrage/helium-maquette-tablette.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ressources/Démarrage/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ressources/Correction/helium-maquette.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ressources/Correction/img/investlogo2blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ressources/Correction/img/investlogo3blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ressources/Correction/img/investlogo4blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ressources/Correction/img/main.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ressources/Correction/img/marker1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ressources/Correction/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ressources/Correction/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ressources/Démarrage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ressources/Démarrage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +68,7 @@
       <workItem from="1674131069899" duration="979000" />
       <workItem from="1674193169168" duration="3197000" />
       <workItem from="1674198275050" duration="227000" />
-      <workItem from="1674198578284" duration="634000" />
+      <workItem from="1674198578284" duration="775000" />
     </task>
     <task id="LOCAL-00001" summary="Premier commit TP2 Css">
       <created>1674131443714</created>
@@ -103,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674195364425</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Début tp3">
+      <created>1674199268554</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674199268554</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
