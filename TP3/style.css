@@ -63,6 +63,7 @@ button {
   font-weight: bold;
   letter-spacing: 1px;
   margin: 5px;
+  display: block;
 }
 .investors {
   display: flex;
@@ -92,5 +93,26 @@ button {
 }
 
 @media screen and (max-width: 592px){
-  
+  nav{
+    grid-template-columns: 35% 65%;
+  }
+  nav ul{
+    font-size: 0.7rem;
+  }
+  .header{
+    display: block;
+  }
+  .infos{
+    display: block;
+    text-align: center;
+  }
+  button{
+    margin: 5px auto;
+  }
+  .btn-container{
+    margin: 0 auto;
+  }
+  .img-container img{
+    height: 30px;
+  }
 }
