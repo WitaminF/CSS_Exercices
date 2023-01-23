@@ -1,56 +1,101 @@
 <!doctype html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <div class="header-left">
-            <div class="header-left-container">
+        <div class="container">
+            <div>
                 <h1>Run</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    architecto cupiditate dicta, quibusdam quos sunt suscipit
-                    temporibus vitae! Ab, sunt!</p>
-                <button>Get Started</button>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi magnam
+                    modi nam optio quae quia rem, similique! Debitis doloribus dolorum eum hic,
+                    recusandae saepe sint!</p>
+                <a href="#" class="button">Get Started</a>
             </div>
         </div>
+        <div class="img-banner"></div>
     </header>
-    <main>
-        <div class="article1">
-            <div class="article1-img"></div>
-            <div class="article-content">
-                <div class="article-container">
-                    <h2>Lorem ipsum dolor.</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing
-                        elit. Eos expedita fuga illum, iusto maxime quisquam!
-                        Alias, aperiam assumenda blanditiis eveniet exercitationem
-                        expedita molestiae mollitia nostrum porro repellendus,
-                        sunt tempora voluptatem voluptatum? Delectus dignissimos earum
-                        quisquam repellat.</p>
-                    <button>Learn More</button>
-                </div>
+    <section class="section1">
+        <div class="img"></div>
+        <div class="container">
+            <div>
+                <h2>Magna etiam feugiat</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad culpa ducimus
+                    eum eveniet libero minima nemo nihil numquam quibusdam, reiciendis rerum 
+                    sed. Ab accusantium dolorem eligendi incidunt praesentium quisquam sequi.</p>
+                <a href="#" class="button">Learn More</a>
             </div>
         </div>
-        <div class="article2">
-            <div class="article-content">
-                <div class="article-container">
-                    <h2>Lorem ipsum dolor.</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing
-                        elit. Eos expedita fuga illum, iusto maxime quisquam!
-                        Alias, aperiam assumenda blanditiis eveniet exercitationem
-                        expedita molestiae mollitia nostrum porro repellendus,
-                        sunt tempora voluptatem voluptatum? Delectus dignissimos earum
-                        quisquam repellat.</p>
-                    <button>Learn More</button>
-                </div>
-            </div>
-            <div class="article2-img"></div>
+    </section>
+<section class="section2">
+    <div class="container">
+        <div>
+            <h2>Tempus adiscing</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci atque
+                commodi culpa, eius impedit mollitia necessitatibus perferendis praesentium
+                quia quisquam tempore ullam. Error, incidunt provident. Alias atque dolorum
+                excepturi facere fugiat id laudantium maiores minima nesciunt officiis quo,
+                reiciendis ut.</p>
+            <a href="#" class="button">Learn More</a>
         </div>
-    </main>
+    </div>
+    <div class="img"></div>
+</section>
+<section class="contact">
+    <h2>Get in touch</h2>
+    <form action="#">
+        <div class="form-grid">
+            <div>
+                <label for="name">Nom</label>
+                <input type="text" id="name">
+            </div>
+            <div>
+                <label for="email">Email</label>
+                <input type="text" id="email">
+            </div>
+            <div>
+                <label for="message">Message</label>
+                <textarea id="message" cols="30" rows="10"></textarea>
+            </div>
+        </div>
+        <input type="submit" class="button" value="Send Message">
+    </form>
+</section>
+<footer>
+    <ul>
+        <li>
+            <a href="#">
+                <i class="fa-brands fa-twitter"></i>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <i class="fa-brands fa-facebook"></i>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <i class="fa-brands fa-instagram"></i>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <i class="fa-brands fa-linkedin"></i>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <i class="fa-regular fa-envelope"></i>
+            </a>
+        </li>
+    </ul>
+</footer>
 </body>
 </html>
