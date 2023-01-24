@@ -87,3 +87,13 @@ header{
     background: url("/assets/img/img-right.jpg") center/cover;
 }
 
+/*********************** CONTACT ************************/
+
+.contact h2{
+    text-align: center;
+    margin-top: 50px;
+}
+.form-grid{
+    display: grid;
+
+}
